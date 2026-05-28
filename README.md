@@ -4,7 +4,19 @@
 
 Repository: **hellogrok**
 
-## Quick Start
+---
+
+### 🔥 Live Demo (GitHub Pages)
+
+**See the Hello World response right now:**
+
+👉 **[View Live Demo](https://alexspark44.github.io/hellogrok/)**
+
+This page simulates the exact JSON response your hexagonal architecture produces.
+
+---
+
+## Quick Start (Local)
 
 ```bash
 ./mvnw spring-boot:run
